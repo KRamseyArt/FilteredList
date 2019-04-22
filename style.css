@@ -1,0 +1,28 @@
+body {
+	background-image: url(https://www.digitalistmag.com/files/2015/11/forest.jpg);
+}
+
+.header {
+	background-image: linear-gradient(to left, rgba(0, 0, 0, 0), rgb(207, 160, 107));
+	color: #fff;
+	text-transform: uppercase;
+	padding: 15px;
+}
+
+#filterInput {
+	background-color: #fff;
+	padding-left: 15px;
+}
+
+.collection.with-header .collection-header {
+	background-color: burlywood;
+	color: #fff;
+}
+
+.collection.with-header .collection-item {
+	background-color: beige;
+}
+
+a {
+	color: burlywood;
+}
